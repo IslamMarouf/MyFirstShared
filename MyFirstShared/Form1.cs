@@ -24,7 +24,7 @@ namespace MyFirstShared
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is for test!");
+            MessageBox.Show("This is for test porposes!");
             
         }
     }
