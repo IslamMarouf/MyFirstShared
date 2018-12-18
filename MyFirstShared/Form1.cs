@@ -20,5 +20,11 @@ namespace MyFirstShared
             MessageBox.Show("This is for test porpuse!");
             
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SecondForm sform = new SecondForm();
+            sform.ShowDialog();
+        }
     }
 }
